@@ -1,2 +1,1 @@
-# School-websitee
- 
+# e-scool-website
